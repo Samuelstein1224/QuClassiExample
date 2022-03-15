@@ -22,4 +22,6 @@ python main.py
 Subsample sets can be edited by editting the training labels and training datasets accordingly. 
 
 [MLSys Link - Pending](127.0.0.0)
-[Arxiv Link](https://arxiv.org/abs/2103.11307)]
+
+
+[Arxiv Link](https://arxiv.org/abs/2103.11307)
